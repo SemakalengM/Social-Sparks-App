@@ -1,1 +1,1 @@
-# Social-Sparks-App
+# social-sparks
